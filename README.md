@@ -29,10 +29,10 @@ A fully responsive Pinterest-inspired web application built using **HTML, CSS, a
 ---
 
 ## 📂 Project Structure
+┣ 📜  README.md
 ┣ 📜 index.html
-┣ 📜 style.css
 ┣ 📜 script.js
-┗ 📜 README.md
+┗ 📜 style.css
 
 
 ---
