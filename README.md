@@ -1,2 +1,55 @@
-# Pinterest-Clone
-A Pinterest clone with responsive grid layout, infinite scroll, and dynamic content loading. Designed to mimic the Pinterest UI using HTML, CSS, and JavaScript.
+
+# 📌 Pinterest Clone (Frontend)
+
+A fully responsive Pinterest-inspired web application built using **HTML, CSS, and JavaScript**. This project replicates the core UI/UX of Pinterest, including a **masonry grid layout**, **infinite scrolling**, and **interactive pin cards**.
+
+## 🌐 Live Demo
+
+
+---
+
+## 🚀 Features
+
+- 🧱 Responsive **Masonry Grid Layout**
+- 🔄 **Infinite Scroll** using Intersection Observer
+- 🖼️ Dynamic image loading from **Picsum API**
+- 🎯 Smooth hover effects (Save, Share, Link buttons)
+- ⚡ Lazy loading for better performance
+- 📱 Fully responsive design (mobile + desktop)
+- 🎨 Clean and modern UI inspired by Pinterest
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure :contentReference[oaicite:1]{index=1}  
+- **CSS3** – Styling, Grid, Animations :contentReference[oaicite:2]{index=2}  
+- **JavaScript (Vanilla)** – Functionality, API handling, Infinite Scroll :contentReference[oaicite:3]{index=3}  
+
+---
+
+## 📂 Project Structure
+┣ 📜 index.html
+┣ 📜 style.css
+┣ 📜 script.js
+┗ 📜 README.md
+
+
+---
+
+## ⚙️ How It Works
+
+- Images are fetched dynamically from the **Picsum Photos API**
+- Each image is placed in a **CSS Grid-based masonry layout**
+- JavaScript calculates **dynamic row spans** for perfect alignment
+- Infinite scrolling is implemented using the **Intersection Observer API**
+
+---
+
+## 📸 Preview
+
+> A Pinterest-style feed with continuously loading images and interactive UI elements.
+
+---
+
+
