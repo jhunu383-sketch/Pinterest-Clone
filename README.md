@@ -1,9 +1,10 @@
-
+<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/074b3e12-2c73-4a30-b038-aaecec2b0d86" />
 # 📌 Pinterest Clone (Frontend)
 
 A fully responsive Pinterest-inspired web application built using **HTML, CSS, and JavaScript**. This project replicates the core UI/UX of Pinterest, including a **masonry grid layout**, **infinite scrolling**, and **interactive pin cards**.
 
 ## 🌐 Live Demo
+https://pinterest-clone-pi-tawny.vercel.app/
 
 
 ---
